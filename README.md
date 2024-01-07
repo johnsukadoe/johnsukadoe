@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑🏻 Miras Shynar - 18 y.o. React dev<br>🧠 Skills: html, css, javascript, scss, sass, typescript, git, github, parcel, npm, bootstrap, wix, tilda, expressjs, react, react router, redux, linux bash<br>👾 Future skills: next, tailwindcss, webpack, jest, pug, gulp, grunt, eslint, vue, nuxt, react native, eleventy, Apollo, electron, figma, adobe photoshop, adobe premiere pro<br>🦿 Going up to the top floor of Arasaka Tower
+🧑🏻 Miras Shynar - 18 y.o. Vue dev<br>🧠 Skills: html, css, javascript, scss, sass, typescript, git, github, parcel, npm, bootstrap, wix, tilda, expressjs, react, react router, redux, linux bash<br>👾 Future skills: next, tailwindcss, webpack, jest, pug, gulp, grunt, eslint, vue, nuxt, react native, eleventy, Apollo, electron, figma, adobe photoshop, adobe premiere pro<br>🦿 Going up to the top floor of Arasaka Tower
 
 
 ## 🌐 Socials:
